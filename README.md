@@ -9,5 +9,5 @@ Projeto que organiza meus estudos de Git
 - git add */.
 - git commit -m ""
 - git push origin main
-
+- git pull 
 
