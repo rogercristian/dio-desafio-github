@@ -1,4 +1,4 @@
-# Desafio de Projeto Git/GitHub DIO 
+# Desafio de Projeto Git/GitHub DIO 🦾
 
 Projeto que organiza meus estudos de Git
 
@@ -11,3 +11,5 @@ Projeto que organiza meus estudos de Git
 - git push origin main
 - git pull 
 
+## Markdown sytaxe 
+[Link de referencia para a sintaxe da Markdown](https://www.markdownguide.org/basic-syntax/)
