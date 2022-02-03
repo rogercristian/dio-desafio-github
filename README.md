@@ -13,3 +13,14 @@ Projeto que organiza meus estudos de Git
 
 ## Markdown sytaxe 
 [Link de referencia para a sintaxe da Markdown](https://www.markdownguide.org/basic-syntax/)
+
+**Bold**
+
+_Italico_
+
+***Bold e Italico***
+
+
+1. Lista item 1
+2. Lista item 2..
+3. 
