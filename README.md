@@ -1,10 +1,13 @@
 # Desafio de Projeto Git/GitHub DIO 
 
-##Lembrete de Comandos 
-git init
-git status
-git add */.
-git commit -m ""
-git push origin main
+Projeto que organiza meus estudos de Git
+
+## Lembrete de comandos
+
+- git init
+- git status
+- git add */.
+- git commit -m ""
+- git push origin main
 
 
